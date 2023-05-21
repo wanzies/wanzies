@@ -14,13 +14,13 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-- :telescope: I’m a year 2 Computer Engineering Undergraduate studying in Singapore Institute of technology!
+- :telescope: I’m a final year student for Computer Science in Real Time Interactive Simulation Undergraduate studying in Singapore Institute of technology!
 
-- :seedling: I aspire to be a software engineer who uses his critical thinking skills to develop software innovations to solve real world problems!
+- :seedling: I aspire to be a software engineer that can solve real world problems!
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. I also enjoy volunteering 😸
+- :zap: In my free time, I code up my own little simulation worlds and if i have more time, i organise events to bring the youths together!
 
-- :mailbox:How to reach me: <img src="https://img.shields.io/badge/email-haziqshahwira%40gmail.com-blue" title="haziqshahwira@gmail.com" alt="haziqshahwira@gmail.com" >
+- :mailbox:How to reach me: <img src="https://img.shields.io/badge/email-bnursyazwan%40gmail.com-blue" title="bnursyazwana@gmail.com" alt="bnursyazwan@gmail.com" >
 
 ---
 
@@ -32,9 +32,6 @@ Hi my name is Haziqshah, an aspiring software Engineer!
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
 </div>
 
@@ -51,6 +48,29 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 </div>
 
 ---
+
+### My Projects!
+<div>
+  
+Neck Project 2021 - 2022 
+  
+GIF HERE
+  
+Using Python and AI libraries, to diagnose neck problems using everyday webcams!
+  
+Download Here!
+
+UniFY! 2021 - 2022
+
+GIF HERE
+  
+Our team loves GTA so much we made it!
+  
+Download Here!
+  
+ 
+  
+</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wanzies&theme=tokyonight)](https://git.io/streak-stats)
