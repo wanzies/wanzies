@@ -1,6 +1,6 @@
 ----
 <h1>
-  hey there
+  Hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -10,7 +10,7 @@
 ---
 
 ### :man_technologist: About Me :
-Hi my name is Haziqshah, an aspiring software Engineer! 
+Hi i am Nur Syazwan, an aspiring software Engineer! 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
