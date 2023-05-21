@@ -20,7 +20,7 @@ Hi i am Nur Syazwan, an aspiring software Engineer!
 
 - :zap: In my free time, I code up my own little simulation worlds and if i have more time, i organise events to bring the youths together!
 
-- :mailbox:How to reach me: <img src="https://img.shields.io/badge/email-bnursyazwan%40gmail.com-blue" title="bnursyazwana@gmail.com" alt="bnursyazwan@gmail.com" >
+- :mailbox:How to reach me: bnursyazwan@gmail.com
 
 ---
 
@@ -55,7 +55,7 @@ Neck Project 2021 - 2022
 GIF HERE
   
 Using Python and AI libraries, to diagnose neck problems using everyday webcams!
-  
+
 Download Here!
 
 UniFY! 2021 - 2022
@@ -65,9 +65,7 @@ GIF HERE
 Our team loves GTA so much we made it!
   
 Download Here!
-  
- 
-  
+
 </div>
 
 ### :fire: My Stats :
@@ -75,8 +73,7 @@ Download Here!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanzies&theme=tokyonight&layout=compact)
 
 ---
-### 📖 Research Papers Published :
-- "Clustering, Separation, and Connection: A Tale of Three Characteristics"
-published in 2021 IEEE International Conference on Software Maintenance and Evolution (ICSME).
-Link to paper: https://ieeexplore.ieee.org/document/9609186
+### 📖 Hackathons!:
+- SCDF 2019 - Build a software to manage multiple incidents in a specific building
+- Razer 2020 - Build an iBanking concept app for Razer
 ---
