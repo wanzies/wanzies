@@ -37,10 +37,8 @@ Hi i am Nur Syazwan, an aspiring software Engineer!
 
 #### 🤖 IDE : 
 <div>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" title="NetBeans"  alt="NetBeans" width="40" height="40"/>&nbsp;
-  <img src="https://i0.wp.com/ubiq.co/database-blog/wp-content/uploads/2020/10/mysql-workbench-alternatives.png?resize=730%2C410&ssl=1" title="MYSQLWorkbench"  alt="MYSQLWorkbench" width="80" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google Colaboratory"  alt="Google Colaboratory" width="80" height="40"/>&nbsp;
+
+  <img src="https://notepad-plus-plus.org/images/logo.svg" title="Notepad++"  alt="Notepad++" width="80" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" title="Visual Studio"  alt="Visual Studio" width="80" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" title="Eclipse"  alt="Eclipse" width="80" height="40"/>&nbsp;
 
