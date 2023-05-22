@@ -62,7 +62,7 @@ UniFY! 2021 - 2022
 
 GIF HERE
 
-<img src="https://media.giphy.com/media/swzCmaSIrANr8BeyVt/giphy.gif" width="30px"/>
+<img src="https://media.giphy.com/media/swzCmaSIrANr8BeyVt/giphy.gif" width="100px"/>
 
   
 Our team loves GTA so much we made it!
