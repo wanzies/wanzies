@@ -57,13 +57,29 @@ I am an aspiring Software Engineer, currently a final year student pursuing a de
 
 ## Projects
 
-### Neck Project 2021 - 2022
+### Flutter Mobile Development
 
-![Neck Project](GIF_LINK_HERE)
+#### 1. Wedding Gallery App
 
-Developed using Python and AI libraries, the Neck Project aims to diagnose neck problems using everyday webcams.
+![Wedding Gallery](INSERT_IMAGE_LINK_HERE)
 
-[Download Here](#)
+Description: A mobile app designed to showcase wedding photos in an elegant and user-friendly gallery. 
+
+---
+
+#### 2. ChatGPT App
+
+![ChatGPT](INSERT_IMAGE_LINK_HERE)
+
+Description: A mobile app utilizing ChatGPT for interactive and dynamic chat experiences. 
+
+---
+
+#### 3. Simulation App
+
+![Simulation App](INSERT_IMAGE_LINK_HERE)
+
+Description: A mobile simulation app created to provide users with an immersive and educational experience.
 
 ---
 
