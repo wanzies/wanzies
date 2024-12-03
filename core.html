@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prayer Times & CNA Live</title>
+    <style>
+        body {
+            display: flex;
+            margin: 0;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        .left {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            background-color: #f4f4f4;
+        }
+        .right {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #ddd;
+        }
+        h1 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+            font-size: 1.2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="left">
+        <h1>Prayer Times (Singapore)</h1>
+        <ul id="prayer-times">
+            <li>Loading prayer times...</li>
+        </ul>
+    </div>
+    <div class="right">
+        <iframe width="100%" height="100%" src="https://github.com/wanzies/PrayerTimesCast/blob/main/core.html" 
+                title="CNA Live" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <script>
+        // Fetch prayer times
+        async function fetchPrayerTimes() {
+            const response = await fetch('https://api.aladhan.com/v1/timingsByCity?city=Singapore&country=Singapore&method=2');
+            const data = await response.json();
+
+            const timings = data.data.timings;
+            const prayerTimesList = document.getElementById('prayer-times');
+
+            // Clear loading text
+            prayerTimesList.innerHTML = '';
+
+            // Display prayer times
+            for (const [prayer, time] of Object.entries(timings)) {
+                const listItem = document.createElement('li');
+                listItem.textContent = `${prayer}: ${time}`;
+                prayerTimesList.appendChild(listItem);
+            }
+        }
+
+        fetchPrayerTimes().catch(error => {
+            console.error('Error fetching prayer times:', error);
+            document.getElementById('prayer-times').innerHTML = '<li>Error loading prayer times.</li>';
+        });
+    </script>
+</body>
+</html>
